@@ -49,7 +49,7 @@ echo '结束进程'
 rm -rf $folder
 mkdir $folder
 cd $folder
-wget https://github.com/tokumeikoi/aurora/releases/download/1.2.4/aurora
+wget https://github.com/tokumeikoi/aurora/releases/download/1.2.5/aurora
 wget https://github.com/v2fly/v2ray-core/releases/latest/download/v2ray-linux-64.zip
 
 unzip v2ray-linux-64.zip
